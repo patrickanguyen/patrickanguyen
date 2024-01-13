@@ -1,6 +1,6 @@
 ## Hi gamers! 😎
 
-My name is Patrick (he/him/his), and I currently work as a Software Engineer at Garmin, focusing on tuner technologies - AM, FM, DAB, etc. 
+My name is Patrick (he/him/his), and I currently work as a Software Engineer at Garmin, focusing on tuner technologies. 
 
 Recently, I have been learning more about Rust and Emulators.
 
